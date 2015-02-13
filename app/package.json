@@ -1,0 +1,7 @@
+{
+	"name": "focuswtvdownloader",
+	"version": "0.0.0-git",
+	"dependencies": {
+		"http-get": "0.3.12"
+	}
+}
